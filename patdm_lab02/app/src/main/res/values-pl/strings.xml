@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">padtm_lab02</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+    <string name="label5">Bramka</string>
+    <string name="label4">Piłka</string>
+    <string name="label3">Gołąb</string>
+    <string name="label2">Kot</string>
+    <string name="label1">Pies</string>
+</resources>
